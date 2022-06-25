@@ -19,3 +19,9 @@ Change the layout in here from 'us' to 'custom-layout'
 ```bash
 sudo nano /etc/X11/xorg.conf.d/00-keyboard.conf
 ```
+
+## Switch for window manager
+Edit the keys here
+```bash
+sudo nano /usr/share/X11/xkb/symbols/us
+```
