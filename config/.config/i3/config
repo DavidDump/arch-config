@@ -188,9 +188,10 @@ bar {
 
 # Custom config
 exec --no-startup-id nitrogen --restore
-exec --no-startup-id xcompmgr -n
+# exec --no-startup-id xcompmgr -n
+exec --no-startup-id compton
 
-# exec xrandx -output Virtual-1 --mode 1920x1080
+# exec xrandx --output Virtual-1 --mode 1920x1080
 
 focus_follows_mouse no
 gaps outer 5

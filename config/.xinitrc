@@ -48,5 +48,6 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  unset f
 fi
 
+#xcompmgr -c -C -t-5 -l-5 -r4.2 -o.55 &
 xrandr --output Virtual-1 --mode 1920x1080 &
 exec i3
