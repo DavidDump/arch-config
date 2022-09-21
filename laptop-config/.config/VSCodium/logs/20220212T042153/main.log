@@ -1,0 +1,6 @@
+[2022-02-12 04:21:53.497] [main] [info] update#setState idle
+[2022-02-12 04:21:53.519] [main] [info] ExtensionHostStarterWorker created
+[2022-02-12 04:21:54.604] [main] [info] Starting extension host with pid 3662 (fork() took 7 ms).
+[2022-02-12 04:21:54.605] [main] [info] ExtensionHostStarterWorker.start() took 8 ms.
+[2022-02-12 04:22:23.515] [main] [info] update#setState checking for updates
+[2022-02-12 04:22:23.736] [main] [info] update#setState available for download

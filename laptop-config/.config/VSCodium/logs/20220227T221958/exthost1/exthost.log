@@ -1,0 +1,11 @@
+[2022-02-27 22:20:01.346] [exthost] [info] Extension host with pid 1898 started
+[2022-02-27 22:20:01.346] [exthost] [info] Skipping acquiring lock for /home/david/.config/VSCodium/User/workspaceStorage/671b0cef11966bd66efa33a40692474f.
+[2022-02-27 22:20:01.397] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-27 22:20:01.401] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-27 22:20:01.409] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-27 22:20:01.428] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-27 22:20:01.466] [exthost] [info] Eager extensions activated
+[2022-02-27 22:20:01.500] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-27 22:20:01.508] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-27 22:32:47.515] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-27 22:32:47.519] [exthost] [info] Extension host with pid 1898 exiting with code 0

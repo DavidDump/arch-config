@@ -1,0 +1,8 @@
+[2022-02-27 22:19:59.066] [main] [info] update#setState idle
+[2022-02-27 22:19:59.100] [main] [info] ExtensionHostStarterWorker created
+[2022-02-27 22:20:00.701] [main] [info] Starting extension host with pid 1898 (fork() took 36 ms).
+[2022-02-27 22:20:00.701] [main] [info] ExtensionHostStarterWorker.start() took 38 ms.
+[2022-02-27 22:20:29.083] [main] [info] update#setState checking for updates
+[2022-02-27 22:20:29.180] [main] [info] update#setState available for download
+[2022-02-27 22:32:47.525] [main] [info] Waiting for extension host with pid 1898 to exit.
+[2022-02-27 22:32:47.530] [main] [info] Extension host with pid 1898 exited with code: 0, signal: null.

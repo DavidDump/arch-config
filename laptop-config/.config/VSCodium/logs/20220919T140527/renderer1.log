@@ -1,0 +1,8 @@
+[2022-09-19 14:05:28.454] [renderer1] [info] IExtensionHostStarter.start() took 11 ms.
+[2022-09-19 14:05:28.652] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:105:7068)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2022-09-19 14:05:28.691] [renderer1] [error] [Extension Host] (node:2731) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `codium --trace-deprecation ...` to show where the warning was created)
+[2022-09-19 14:10:08.106] [renderer1] [error] XHR failed: Error: XHR failed
+    at XMLHttpRequest.E.onerror (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:83:27239)
