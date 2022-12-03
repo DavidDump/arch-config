@@ -1,11 +1,11 @@
-# Transparency
+## Transparency
 Dependency that I was missing in the VM, full list on repo
-```bash
+```sh
 sudo pacman -S asciidoc
 ```
 
 Install compton
-```bash
+```sh
 git clone https://github.com/chjj/compton.git
 cd compton
 make

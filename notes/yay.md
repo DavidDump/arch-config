@@ -1,6 +1,6 @@
-# Installing yay
+## Installing yay
 
-```bash
+```sh
 git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
