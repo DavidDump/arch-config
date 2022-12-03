@@ -1,6 +1,9 @@
-cp ~/.xinitrc ~/arch-config/config/.xinitrc
-cp ~/.config/i3/config ~/arch-config/config/.config/i3/config
-cp ~/.config/fish/config.fish ~/arch-config/config/.config/fish/config.fish
-cp ~/.config/alacritty/alacritty.yml ~/arch-config/config/.config/alacritty/alacritty.yml
-cp ~/.config/compton.conf ~/arch-config/config/.config/compton.conf
-cp ~/.config/polybar/config.ini ~/arch-config/config/.config/polybar/config.ini
+repopath=~/arch-config
+
+cp ~/.xinitrc $repopath/config/.xinitrc
+cp ~/.config/compton.conf $repopath/config/.config/compton.conf
+cp -r ~/.config/i3/ $repopath/config/.config/i3/
+cp -r ~/.config/fish/ $repopath/config/.config/fish/
+cp -r ~/.config/alacritty/ $repopath/config/.config/alacritty/
+cp -r ~/.config/polybar/ $repopath/config/.config/polybar/
+cp -r ~/scripts/ $repopath/scripts/
