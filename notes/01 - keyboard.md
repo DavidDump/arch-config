@@ -10,7 +10,7 @@ change the import from 'qwerty' to 'qwertz'
 ```sh
 gzip custom.map
 cp /usr/share/kbd/keymaps/i386/qwertz/custom-layout.map.gz
-nano /ect/vconsole.conf
+nano /etc/vconsole.conf
 ```
 change the layout to 'custom-layout'
 
